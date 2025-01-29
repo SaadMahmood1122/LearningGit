@@ -1,1 +1,2 @@
 Hello the world of git
+My name is khan
