@@ -1,1 +1,2 @@
 can add and delete user
+added logIn and logout
